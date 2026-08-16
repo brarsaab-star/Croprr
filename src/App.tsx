@@ -69,7 +69,7 @@ function App() {
           <div className="hero-image" style={{ backgroundImage: `linear-gradient(90deg, rgba(10, 37, 25, .98) 0%, rgba(10, 37, 25, .78) 38%, rgba(10, 37, 25, .1) 78%), url(${heroImage})` }} />
           <div className="container hero-content">
             <div className="eyebrow light"><span /> The operating system for agriculture</div>
-            <h1>Our Culture Agriculture.<br /><em>One Marketplace.</em></h1>
+            <h1>Our Culture, Agriculture.<br /><em>One Marketplace.</em></h1>
             <p>Connect with farmers, equipment owners, agricultural businesses, service providers and buyers — all in one place.</p>
             <div className="hero-actions">
               <button className="button button-gold" onClick={() => scrollTo('download')}>Download Croprr <ArrowRight size={17} /></button>
